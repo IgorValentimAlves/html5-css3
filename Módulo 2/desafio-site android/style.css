@@ -1,0 +1,38 @@
+@font-face {
+        font-family: 'idroid';
+        src: url('fontes/idroid.otf')format(opentype); 
+    }
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    background-color: rgb(129, 241, 204);
+    
+}
+
+
+header {
+    background-color: rgb(3, 216, 145);
+    text-align: center;
+}
+
+main {
+    margin: auto;
+    background-color: white;
+    width: 800px;
+    border-radius: 10px;
+}
+
+aside {
+    background-color: rgb(129, 241, 204);
+    width: 700px;
+    border-radius: 5px;
+    padding: 10px;
+    margin: auto;
+    
+}
+
